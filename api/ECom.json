@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": 1,
+      "cname": "北京柯蓝科技有限公司",
+      "city": "北京",
+      "trade": "计算机金融",
+      "leader": "刘海还",
+      "telephone": "15012312312",
+      "status": "合作中",
+      "job": "Java开发"
+    },{
+      "id": 2,
+      "cname": "北京柯蓝科技有限公司",
+      "city": "北京",
+      "trade": "计算机金融",
+      "leader": "刘海还",
+      "telephone": "15012312312",
+      "status": "合作中",
+      "job": "Java开发"
+    },{
+      "id": 3,
+      "cname": "北京柯蓝科技有限公司",
+      "city": "北京",
+      "trade": "计算机金融",
+      "leader": "刘海还",
+      "telephone": "15012312312",
+      "status": "合作中",
+      "job": "Java开发"
+    },{
+      "id": 4,
+      "cname": "北京柯蓝科技有限公司",
+      "city": "北京",
+      "trade": "计算机金融",
+      "leader": "刘海还",
+      "telephone": "15012312312",
+      "status": "合作中",
+      "job": "Java开发"
+    },{
+      "id": 5,
+      "cname": "北京柯蓝科技有限公司",
+      "city": "北京",
+      "trade": "计算机金融",
+      "leader": "刘海还",
+      "telephone": "15012312312",
+      "status": "合作中",
+      "job": "Java开发"
+    },{
+      "id": 6,
+      "cname": "北京柯蓝科技有限公司",
+      "city": "北京",
+      "trade": "计算机金融",
+      "leader": "刘海还",
+      "telephone": "15012312312",
+      "status": "合作中",
+      "job": "Java开发"
+    },{
+      "id": 7,
+      "cname": "北京柯蓝科技有限公司",
+      "city": "北京",
+      "trade": "计算机金融",
+      "leader": "刘海还",
+      "telephone": "15012312312",
+      "status": "合作中",
+      "job": "Java开发"
+    },{
+      "id": 8,
+      "cname": "北京柯蓝科技有限公司",
+      "city": "北京",
+      "trade": "计算机金融",
+      "leader": "刘海还",
+      "telephone": "15012312312",
+      "status": "合作中",
+      "job": "Java开发"
+    },{
+      "id": 9,
+      "cname": "北京柯蓝科技有限公司",
+      "city": "北京",
+      "trade": "计算机金融",
+      "leader": "刘海还",
+      "telephone": "15012312312",
+      "status": "合作中",
+      "job": "Java开发"
+    },{
+      "id": 10,
+      "cname": "北京柯蓝科技有限公司",
+      "city": "北京",
+      "trade": "计算机金融",
+      "leader": "刘海还",
+      "telephone": "15012312312",
+      "status": "合作中",
+      "job": "Java开发"
+    }
+
+  ]
+}
